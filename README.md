@@ -9,14 +9,6 @@ This repository contains solutions for the Go Piscine modules (Go 00 - Go 03) fr
 - **Go 02**: Mathematical Functions and Recursion
 - **Go 03**: String Utilities and Advanced String Operations
 
-## Key Learning Areas
-- Basic input/output operations
-- Pointer manipulation
-- Recursive and iterative algorithms
-- String processing
-- Combination generation
-- Mathematical function implementations
-
 ## Exercise Categories
 - Printing alphabets and digits
 - Combination generation
